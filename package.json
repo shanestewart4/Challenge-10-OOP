@@ -1,0 +1,28 @@
+{
+  "name": "challenge-10-oop",
+  "version": "1.0.0",
+  "description": "# User Story",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanestewart4/Challenge-10-OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanestewart4/Challenge-10-OOP/issues"
+  },
+  "homepage": "https://github.com/shanestewart4/Challenge-10-OOP#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
